@@ -11,6 +11,10 @@ h1{
     margin-bottom: 50px;
     margin-left: 450px;
     text-decoration: underline ;
-    font-family: Times New Roman, Times, serif
-    
+    font-family: Times New Roman, Times, serif    
+}
+hr{
+    color: darkblue;
+    border-style: dashed;
+    border-width : 1px;
 }
