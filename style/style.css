@@ -4,7 +4,8 @@ body{
 }
 
 img {
-    border-radius: 90%
+    border-radius: 75%;
+    font-size : 30px;
 }
 
 h1{
@@ -12,5 +13,4 @@ h1{
     margin-left: 450px;
     text-decoration: underline ;
     font-family: Times New Roman, Times, serif
-    
 }
